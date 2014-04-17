@@ -6,6 +6,7 @@ public class Font1 {
 		System.out.println("vixi de novo" ) ;
 		System.out.println("vixi de novo, novamente" ) ;
 		System.out.println("vixi de novo, de novo outra vez" ) ;
+		System.out.println("eu jogo xadrez");
 
 	}
 }
